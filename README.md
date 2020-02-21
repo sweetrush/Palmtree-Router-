@@ -1,2 +1,34 @@
-# Palmtree-Router-
-This is a opensource router project built from the raspberry pi broad
+# Palmtree-Router(PTR)
+The PTR Project is a opensource router that is built from a raspberry pi and opensource software. The project was born in Samoa an Island in the pacific. It was birth out of the needs to gain access to internet to a remote are of Samoa that still has not got fiber or copper internet access. So the create of the PTR project created a solution to build a 4G router out of the raspberry pi and security software. 
+
+# Software services 
+* [OpenVPN](https://openvpn.net/) 
+* [TOR ](https://www.torproject.org/)
+* [NetFlow](https://www.ntop.org/)
+* [PiHole DNS Sink Hole](https://pi-hole.net/)
+* [vnstat](https://humdi.net/vnstat/)
+* [MRTG](https://oss.oetiker.ch/mrtg/)
+
+# Web Admin UI
+The PTR has a web admin you that you can access throught the browser this is used to configure the router and view any status on the PTR device. some of the features that it has are listed below.
+- Main status Page 
+- Networking Interface Views
+- Network Statistic Views (vnstat, MRTG)
+- Network Speedtest Views
+- Internet External IP and Connected IPs
+- Pihole Integrated Interface
+- Support Software Service Views
+- Web Admin Shell 
+- Wifi Connector Configure View
+- VPN Connector Configure View
+- System reboot and shutdown.
+
+# Download PTR Version
+####[Download](https://drive.google.com/open?id=1U8ZHt2RczXIf5CMJsb2RH5NQnVntZe0e) Version 1.04
+
+# Online Present of PTR 
+- [APNIC Blog - Palmtree router: A Secure and Private Internet Gateway](https://blog.apnic.net/2019/11/19/palmtree-router-a-secure-and-private-internet-gateway/)
+
+
+
+
