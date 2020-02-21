@@ -10,7 +10,7 @@ The PTR Project is a opensource router that is built from a raspberry pi and ope
 * [MRTG](https://oss.oetiker.ch/mrtg/)
 
 # Web Admin UI
-The PTR has a web admin you that you can access throught the browser this is used to configure the router and view any status on the PTR device. some of the features that it has are listed below.
+The PTR has a web admin you that you can access through the browser this is used to configure the router and view any status on the PTR device. some of the features that it has are listed below.
 - Main status Page 
 - Networking Interface Views
 - Network Statistic Views (vnstat, MRTG)
@@ -24,7 +24,7 @@ The PTR has a web admin you that you can access throught the browser this is use
 - System reboot and shutdown.
 
 # Download PTR Version
-####[Download](https://drive.google.com/open?id=1U8ZHt2RczXIf5CMJsb2RH5NQnVntZe0e) Version 1.04
+#### [Download](https://drive.google.com/open?id=1U8ZHt2RczXIf5CMJsb2RH5NQnVntZe0e) Version 1.04
 
 # Online Present of PTR 
 - [APNIC Blog - Palmtree router: A Secure and Private Internet Gateway](https://blog.apnic.net/2019/11/19/palmtree-router-a-secure-and-private-internet-gateway/)
