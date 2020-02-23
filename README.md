@@ -28,6 +28,7 @@ The PTR has a web admin you that you can access through the browser this is used
 
 # Online Present of PTR 
 - [APNIC Blog - Palmtree router: A Secure and Private Internet Gateway](https://blog.apnic.net/2019/11/19/palmtree-router-a-secure-and-private-internet-gateway/)
+- [Redit Post - My Palmtree Router Project ](https://www.reddit.com/r/raspberry_pi/comments/9z186z/my_palmtree_router_project/)
 
 
 
