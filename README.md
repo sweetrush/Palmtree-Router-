@@ -24,7 +24,9 @@ The PTR has a web admin you that you can access through the browser this is used
 - System reboot and shutdown.
 
 # Download PTR Version
+### Version 1.6beta [Message me to arrange download support]
 ### Version 1.04 [Download](https://drive.google.com/open?id=1U8ZHt2RczXIf5CMJsb2RH5NQnVntZe0e) 
+
 
 # Online Present of PTR 
 - [APNIC Blog - Palmtree router: A Secure and Private Internet Gateway](https://blog.apnic.net/2019/11/19/palmtree-router-a-secure-and-private-internet-gateway/)
