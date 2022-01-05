@@ -8,6 +8,7 @@ The PTR Project is a opensource router that is built from a raspberry pi and ope
 * [PiHole DNS Sink Hole](https://pi-hole.net/)
 * [vnstat](https://humdi.net/vnstat/)
 * [MRTG](https://oss.oetiker.ch/mrtg/)
+* [Monitorix](https://www.monitorix.org/)
 
 # Web Admin UI
 The PTR has a web admin you that you can access through the browser this is used to configure the router and view any status on the PTR device. some of the features that it has are listed below.
