@@ -22,6 +22,7 @@ The PTR has a web admin you that you can access through the browser this is used
 - Web Admin Shell 
 - Wifi Connector Configure View
 - VPN Connector Configure View
+- Systerm Status View 
 - System reboot and shutdown.
 
 # Download PTR Version
